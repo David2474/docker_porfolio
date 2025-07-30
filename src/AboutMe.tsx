@@ -17,7 +17,7 @@ export default function AboutMe() {
               Desarrollador Frontend
             </h1>
             <p className="text-xl text-gray-200 mb-8 leading-relaxed">
-              Soy desarrollador Fullstack Jr. y me gusta mucho crear cosas desde cero. 
+              Soy desarrollador Frontend y me gusta mucho crear cosas desde cero. 
               Disfruto trabajar el TechStack de Next.js, Tailwind y TypeScript en el frontend
               y en el backend suelo usar NestJS y MySQL. Me gusta seguir aprendiendo y mejorar con cada proyecto.
             </p>
