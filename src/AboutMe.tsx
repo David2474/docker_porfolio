@@ -17,13 +17,16 @@ export default function AboutMe() {
               Desarrollador Frontend
             </h1>
             <p className="text-xl text-gray-200 mb-8 leading-relaxed">
-              Soy desarrollador Fullstack Jr. con más de 2 años de experiencia creando interfaces modernas y funcionales. 
-              Me especializo en frontend con React y Next.js, y tengo conocimientos sólidos en backend con NestJS y MySQL. 
-              Disfruto resolver problemas, trabajar en equipo y seguir aprendiendo cada día.
+              Soy desarrollador Fullstack Jr. y me gusta mucho crear cosas desde cero. 
+              Disfruto trabajar el TechStack de Next.js, Tailwind y TypeScript en el frontend
+              y en el backend suelo usar NestJS y MySQL. Me gusta seguir aprendiendo y mejorar con cada proyecto.
             </p>
             <div className="flex flex-wrap justify-center gap-2 mb-8">
               <Badge variant="secondary" className="bg-emerald-500/20 text-emerald-300 border-emerald-500/30">
                 React
+              </Badge>
+              <Badge variant="secondary" className="bg-pink-500/20 text-pink-300 border-pink-500/30">
+                Git
               </Badge>
               <Badge variant="secondary" className="bg-blue-500/20 text-blue-300 border-blue-500/30">
                 Next.js

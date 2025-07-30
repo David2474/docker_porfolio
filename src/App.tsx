@@ -7,8 +7,6 @@ import Profile from './Profile'
 import Projects from './Projects'
 
 function App() {
-
-
   return (
     <div className="min-h-screen bg-gradient-to-br from-gray-900 via-slate-900 to-black">
       <AboutMe/>
